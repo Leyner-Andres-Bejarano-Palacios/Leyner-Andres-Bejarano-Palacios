@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leyner-Andres-Bejarano-Palacios
-- 👀 I’m interested in distributed systems
-- 🌱 I’m currently learning competitive programing andd 
+- 👀 I’m interested in distributed systems, big data and data science
+- 🌱 I’m currently learning competitive programing and system design 
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me, write to me though my linkedin account https://www.linkedin.com/in/leyner-andres-bejarano-palacios-9962a4103/
 
